@@ -20,6 +20,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     TaskManagementDesc:"This task management app allows users to seamlessly manage their tasks by providing features for updating and editing existing tasks. Users can easily create new tasks.The intuitive interface ensures a smooth user experience, making it easy to keep track of progress and prioritize workloads.",
     TaskManagementGithub:"https://github.com/Sanjayk46/Task-app-frontend",
     TaskManagementWebsite:"http://task-mern-app.s3-website.eu-north-1.amazonaws.com/",
+    
+    MovieAppDesc:"The Movie Database Web Application is an engaging platform designed to help users discover and manage their favorite movies seamlessly. Built using React.js and integrated with the OMDB API, the application allows users to search for movies, view detailed information, and maintain a personalized list of favorites. With features like a responsive design, real-time API data fetching, and smooth navigation through React Router, the app ensures a user-friendly experience across all devices. ",
+    MovieAppDescGithub:"https://github.com/Sanjayk46/movie-app",
+    MovieAppWebsite:"https://mernmovie.netlify.app/",
+
   }
 
   let show ='';
