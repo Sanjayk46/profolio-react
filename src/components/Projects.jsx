@@ -4,7 +4,7 @@ import TaskImage from '../images/task.png';
 import chatImage from '../images/chat.png';
 import FoodImage from '../images/food.png';
 import EcomImage from '../images/Ecom.png';
-
+import MovieImage from "../images/movie.png";
 const Projects = () => {
   return (
     <div>
@@ -14,6 +14,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={FoodImage} projectName="FoodApp" />
         <ProjectBox projectPhoto={TaskImage} projectName="TaskManagement" />
         <ProjectBox projectPhoto={chatImage} projectName="ChatApp" />
+        <ProjectBox projectPhoto={MovieImage} projectName="MovieApp" />
       </div>
 
     </div>
