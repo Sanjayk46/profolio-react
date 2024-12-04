@@ -9,7 +9,7 @@ import { FaPhoneAlt } from 'react-icons/fa';
 const Contact = () => {
 
    const handleResumeClick = () => {
-    window.open('https://drive.google.com/file/d/1Ao-OzT1ShBQUuxyDSQ21BRK9dKi4vn1X/view?usp=drivesdk', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1PTBvZgijThB8y7KYW6zvE2YWsbcN89mV/view?usp=sharing', '_blank', 'noopener,noreferrer');
   };
   return (
    <>
