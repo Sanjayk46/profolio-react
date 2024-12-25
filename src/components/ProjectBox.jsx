@@ -14,7 +14,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     FoodAppWebsite : "https://skrestaurant-food.netlify.app/",
 
     ChatAppDesc:"This chat application offers real-time communication powered by WebSocket, allowing users to connect effortlessly, send instant messages, and share media seamlessly. With a user-friendly interface and real-time updates, users can communicate effectively and enjoy a dynamic chatting experience.",
-    ChatAppGithub:"https://github.com/Sanjayk46/chat-app-frontend",
+    ChatAppGithub:"https://github.com/Sanjayk46/chat-app",
     ChatAppWebsite:"https://mernchatapps.netlify.app/",
     
     TaskManagementDesc:"This task management app allows users to seamlessly manage their tasks by providing features for updating and editing existing tasks. Users can easily create new tasks.The intuitive interface ensures a smooth user experience, making it easy to keep track of progress and prioritize workloads.",
